@@ -1,0 +1,42 @@
+#githubnav {
+  margin:0px;
+  padding:0px;
+  position:relative;
+}
+#githubnav ul.ghn-nav {
+  margin:0;
+  padding:0;
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:160px;
+  list-style-type:disc;
+  overflow-x:hidden;
+  overflow-y:scroll;
+  font-size:12px;
+}
+
+#githubnav ul {
+  background:#000;
+  color:#FFF;
+}
+
+#githubnav div.ghn-content {
+  position:absolute;
+  top:0px;
+  bottom:0px;
+  right:0px;
+  left:160px;
+  overflow:auto;
+  background:#000;
+  color:#666;
+}
+#githubnav div.ghn-content pre{
+  margin:0;
+  padding:0;
+}
+#githubnav div.ghn-content code{
+  background:#000;
+}
+
+

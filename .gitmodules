@@ -1,0 +1,9 @@
+[submodule "jquery.base64"]
+	path = jquery.base64
+	url = https://github.com/yatt/jquery.base64.git
+[submodule "jquery.treeview"]
+	path = jquery.treeview
+	url = https://github.com/jzaefferer/jquery-treeview.git
+[submodule "highlight.js"]
+	path = highlight.js
+	url = https://github.com/isagalaev/highlight.js.git
